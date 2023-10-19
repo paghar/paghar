@@ -21,7 +21,7 @@ Detail-oriented senior front-end developer with a decade of experience crafting 
 <br/>  
 
 
-## Rapidfire  
+## 🥷 Open Source Projects and Contributions
 - 🔭 [flowbite-react: UI components with Tailwind CSS](https://github.com/themesberg/flowbite-react)  
   
 
@@ -80,6 +80,3 @@ Detail-oriented senior front-end developer with a decade of experience crafting 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
