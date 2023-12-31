@@ -1,36 +1,18 @@
 ## Hey 👋, I'm Fatemeh Paghar  
   
 
-Detail-oriented senior front-end developer with a decade of experience crafting elegant and intuitive user interfaces.Proficient in React, JavaScript,Next.js,...  
-  
-
-<a href="https://dev.to/fpaghar" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/paghar" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/paghar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/fatemeh-paghar-developer" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
+Detail-oriented web developer with a decade of experience crafting elegant and intuitive user interfaces.Proficient in React, JavaScript,Next.js,...  
+ 
 <br/>  
 
 
 ## 🥷 Open Source Projects and Contributions
-- 🔭 [flowbite-react: UI components with Tailwind CSS](https://github.com/themesberg/flowbite-react)  
-  
-
-- 🌱[Feature-Sliced Design (FSD: Front end architectural design methodology )](https://github.com/feature-sliced)  
-  
+- 🔭 [flowbite-react: UI components with Tailwind CSS](https://github.com/themesberg/flowbite-react)
 
 - 🌱[NAR-ANON website](https://irdebtanon.ir/en)  
-  
 
+- 🌱[Feature-Sliced Design (FSD: Front end architectural design methodology )](https://github.com/feature-sliced)  
+ 
 <br/>  
 
 
