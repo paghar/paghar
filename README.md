@@ -9,9 +9,7 @@ Detail-oriented web developer with a decade of experience crafting elegant and i
 ## 🥷 Open Source Projects and Contributions
 - 🔭 [flowbite-react: UI components with Tailwind CSS](https://github.com/themesberg/flowbite-react)
 
-- 🌱[NAR-ANON website](https://irdebtanon.ir/en)  
-
-- 🌱[Feature-Sliced Design (FSD: Front end architectural design methodology )](https://github.com/feature-sliced)  
+- 🌱 [NAR-ANON website](https://irdebtanon.ir/en)    
  
 <br/>  
 
