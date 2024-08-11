@@ -2,7 +2,6 @@
 
 Detail-oriented web developer with a decade of experience crafting elegant and intuitive user interfaces.Proficient in React, JavaScript,Next.js,...  
  
-<br/>  
 ## 🥷 Projects
 * 🔭 Open Source Project Contributions:
     * [flowbite-react: UI components with Tailwind CSS](https://github.com/themesberg/flowbite-react)
@@ -14,7 +13,6 @@ Detail-oriented web developer with a decade of experience crafting elegant and i
     * Server: Stapi CMS
     * [Front End Repo link](https://github.com/paghar/NAR-ANON_FE)  
     * [Back End Repo Link](https://github.com/paghar/NAR-ANON_BE)     
-<br/>  
 
 ## Languages and Tools  
 <div align="center">  
