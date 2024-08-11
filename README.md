@@ -1,18 +1,20 @@
-## Hey 👋, I'm Fatemeh Paghar  
-  
+## Hey 👋, I'm Fatemeh Paghar    
 
 Detail-oriented web developer with a decade of experience crafting elegant and intuitive user interfaces.Proficient in React, JavaScript,Next.js,...  
  
 <br/>  
-
-
-## 🥷 Open Source Projects and Contributions
-- 🔭 [flowbite-react: UI components with Tailwind CSS](https://github.com/themesberg/flowbite-react)
-
-- 🌱 [NAR-ANON website](https://irdebtanon.ir/en)    
- 
+## 🥷 Projects
+* 🔭 Open Source Project Contributions:
+    * [flowbite-react: UI components with Tailwind CSS](https://github.com/themesberg/flowbite-react)
+    * [Here’s my PRs list.](https://github.com/themesberg/flowbite-react/pulls?q=is%3Apr+author%3Apaghar+is%3Aclosed)
+   
+* 🔭 🌱 [NAR-ANON website](https://irdebtanon.ir/en).  
+    * A Landingpage For NAR-ANON Assoiciation.     
+    * Client: React, Next.js, TailwindCSS
+    * Server: Stapi CMS
+    * [Front End Repo link](https://github.com/paghar/NAR-ANON_FE)  
+    * [Back End Repo Link](https://github.com/paghar/NAR-ANON_BE)     
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -34,7 +36,6 @@ Detail-oriented web developer with a decade of experience crafting elegant and i
 </div>  
 
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
