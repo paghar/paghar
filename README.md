@@ -8,12 +8,12 @@ Detail-oriented web developer with a decade of experience crafting elegant and i
     * [Here’s my PRs list.](https://github.com/themesberg/flowbite-react/pulls?q=is%3Apr+author%3Apaghar+is%3Aclosed)
  
 * 🔭 Node.js + Next.js Tutorial Project
-       * It features a product catalog, shopping cart functionality, user authentication, and an admin panel for managing products.
-       * [Repo link](https://github.com/paghar/nodejs-nextjs-fullstack-app)
+       It features a product catalog, shopping cart functionality, user authentication, and an admin panel for managing products.
+       [Repo link](https://github.com/paghar/nodejs-nextjs-fullstack-app)
   
 * 🔭 dynamic-shopping-cart
-       * dynamic-shopping-cart is a Next.js application that provides an e-commerce experience with various features, including a product catalog, UI components, and smooth           transitions using modern web technologies like React, TailwindCSS, and Framer Motion.
-        * [Repo link]([https://github.com/paghar/NAR-ANON_FE](https://github.com/paghar/dynamic-shopping-cart))    
+     dynamic-shopping-cart is a Next.js application that provides an e-commerce experience with various features, including a product catalog, UI components, and smooth transitions using modern web technologies like React, TailwindCSS, and Framer Motion.
+      [Repo link](https://github.com/paghar/dynamic-shopping-cart)    
    
 * 🔭  NAR-ANON website.  
     * A Landingpage For NAR-ANON Assoiciation.     
